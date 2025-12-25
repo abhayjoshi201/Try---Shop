@@ -11,21 +11,26 @@ It features an intelligent **Store Ops Dashboard** that uses (simulated) Google 
 
 ## 📸 Screenshots
 
-### 1. Customer View
+### 1. Customer Experience
 *Browse the catalog and request "Try & Buy" to get multiple sizes sent home.*
-![Customer View](https://via.placeholder.com/800x450?text=Customer+View+-+Catalog+%26+Checkout)
+![Customer Catalog](screenshots/customer_catalog.png)
 
-### 2. Store Ops View (The Brain)
-*Manage incoming orders. The AI automatically suggests "Same Brand" cross-sell items to pack.*
-![Store Ops View](https://via.placeholder.com/800x450?text=Store+Ops+View+-+AI+Recommendations)
+*Seamless checkout with Try & Buy option.*
+![Customer Checkout](screenshots/customer_checkout.png)
+
+### 2. Store Ops (The Brain)
+*AI automatically suggests "Same Brand" cross-sell items to pack.*
+![Store Ops AI](screenshots/store_ops_ai.png)
+
+*Interactive packing list for fulfillment efficiency.*
+![Store Ops Packing](screenshots/store_ops_packing.png)
 
 ### 3. Rider View (The Last Mile)
-*Manage deliveries and process instant returns at the customer's doorstep.*
-![Rider View](https://via.placeholder.com/800x450?text=Rider+View+-+Delivery+%26+Returns)
+*Manage active deliveries.*
+![Rider Dashboard](screenshots/rider_dashboard.png)
 
-### 4. AI Fashion Assistant
-*Chat with the AI for styling advice and order updates.*
-![Chatbot](https://via.placeholder.com/800x450?text=AI+Chatbot+Interface)
+*Process instant returns at the customer's doorstep with dynamic total calculation.*
+![Rider Returns](screenshots/rider_delivery.png)
 
 ## ✨ Key Features
 
